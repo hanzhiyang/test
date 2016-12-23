@@ -1,3 +1,4 @@
-<?php
-echo "´ËÎÄµµ½ö¹©²âÊÔÊ¹ÓÃ";
+ï»¿<?php
+header("Content-type: text/html; charset=utf-8");
+echo "æ­¤æ–‡æ¡£ä»…ä¾›æµ‹è¯•ä½¿ç”¨";
 ?>
